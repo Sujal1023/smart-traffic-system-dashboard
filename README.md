@@ -41,7 +41,7 @@ This project is a comprehensive smart traffic management system dashboard. It le
 
 3. Run the Python script:
    ```bash
-   python main.py
+   python manager.py
    ```
 
 ## Usage
